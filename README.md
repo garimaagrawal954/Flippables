@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Flippable-Profiles-
+🎴✨ Flip your way through beautifully animated user profiles! Create, edit, and delete cards with personality — complete with fun emojis, light/dark themes, and sleek UI animations. Built with React + MUI and a whole lot of ✨ flair.
+>>>>>>> f863512fec788fc65a724167f5b200dc7dd64e70
