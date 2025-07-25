@@ -34,21 +34,6 @@ A playful and customizable React project with animations — perfect for portfol
 
 ---
 
-📦 flippable-profiles
- ┣ 📂public
- ┃ ┣ index.html
- ┃ ┣ logo.png / Merakilogo.JPG
- ┃ ┣ previews (.gif)
- ┣ 📂src
- ┃ ┣ App.js
- ┃ ┣ UserCard.js
- ┃ ┣ EditModal.js
- ┃ ┣ Footer.js
- ┃ ┣ data/
- ┣ README.md
-
----
-
 ### 🚀 Getting Started
 
 ```bash
