@@ -3,7 +3,7 @@
 Create, edit, delete, and flip interactive profile cards in a stylish, responsive UI!  
 A playful and customizable React project with animations — perfect for portfolios, team directories, or personal dashboards. 💫
 
-![Flip Animation Preview](./public/AnimationAndFlipPreview.gif)
+![Theme Toggle Preview](./public/ThemePreview.gif)
 
 ---
 
