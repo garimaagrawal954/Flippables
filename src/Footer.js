@@ -14,7 +14,7 @@ function Footer({ darkMode }) {
         color: darkMode ? "#ddd" : "#333",
       }}
     >
-      <span>Design by MerakiM</span>
+      {/* <span>Design by MerakiM</span>
       {darkMode ? (
         <img
           src="/Merakilogo.JPG"
@@ -27,7 +27,7 @@ function Footer({ darkMode }) {
           alt="Meraki Logo"
           style={{ height: 40, marginLeft: 6 }}
         />
-      )}
+      )} */}
     </Box>
   );
 }
